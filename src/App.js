@@ -12,7 +12,7 @@ class App extends Component {
     }
   }
   onSearchChange(event) {
-    console.log(event)
+    console.log(event.target.value)
   }
 
   render() {
