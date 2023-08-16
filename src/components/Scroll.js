@@ -5,7 +5,7 @@ export default function Scroll(props) {
     <div
       style={{
         overflowY: 'scroll',
-        height: '800px',
+        height: '500px',
         border: ' 1px solid black',
       }}
     >
